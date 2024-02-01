@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C3775709-DE69-46E6-815C-FBDCAC045ADC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "307DBBC1-9D86-476F-9AB2-6017C2593B85"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "setBookmarkValueAtIndex(index:isBookmarked:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "307DBBC1-9D86-476F-9AB2-6017C2593B85 - fff825502e45d322"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.CharacterListViewModel.setBookmarkValueAtIndex(index: Swift.Int, isBookmarked: Swift.Bool) -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "307DBBC1-9D86-476F-9AB2-6017C2593B85 - fff825502e45d322"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.CharacterListViewModel.setBookmarkValueAtIndex(index: Swift.Int, isBookmarked: Swift.Bool) -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "307DBBC1-9D86-476F-9AB2-6017C2593B85 - fff825502e45d387"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.CharacterListViewModel.setBookmarkValueAtIndex(index: Swift.Int, isBookmarked: Swift.Bool) -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "307DBBC1-9D86-476F-9AB2-6017C2593B85 - fff825502e45d20b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.CharacterListViewModel.setBookmarkValueAtIndex(index: Swift.Int, isBookmarked: Swift.Bool) -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "307DBBC1-9D86-476F-9AB2-6017C2593B85 - fff825502e45d2ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.CharacterListViewModel.setBookmarkValueAtIndex(index: Swift.Int, isBookmarked: Swift.Bool) -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "307DBBC1-9D86-476F-9AB2-6017C2593B85 - fff825502e45d133"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.CharacterListViewModel.setBookmarkValueAtIndex(index: Swift.Int, isBookmarked: Swift.Bool) -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A762874-7A1C-463D-BB56-8B79C1640D05"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "setBookmarkValuesToCharacters()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A762874-7A1C-463D-BB56-8B79C1640D05 - 4f30624e9dd307f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.CharacterListViewModel.setBookmarkValuesToCharacters() -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "0A762874-7A1C-463D-BB56-8B79C1640D05 - bf905c2a325a317b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Marvel.CharacterModel) -&gt; Marvel.CharacterModel in Marvel.CharacterListViewModel.setBookmarkValuesToCharacters() -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "0A762874-7A1C-463D-BB56-8B79C1640D05 - 4f30624e9dd3048b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.CharacterListViewModel.setBookmarkValuesToCharacters() -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "624">
+               </Location>
+               <Location
+                  uuid = "0A762874-7A1C-463D-BB56-8B79C1640D05 - bf905c2a325a3207"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Marvel.CharacterModel) -&gt; Marvel.CharacterModel in Marvel.CharacterListViewModel.setBookmarkValuesToCharacters() -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43415482-2CCD-41F4-B2F8-DFB6938C080D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "manageCharacterSearch(searchString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "43415482-2CCD-41F4-B2F8-DFB6938C080D - 23e096cd0ca50eef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.CharacterListViewModel.manageCharacterSearch(searchString: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Result&lt;(), Marvel.APIErrors&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "43415482-2CCD-41F4-B2F8-DFB6938C080D - 23e096cd0ca50e48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.CharacterListViewModel.manageCharacterSearch(searchString: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Result&lt;(), Marvel.APIErrors&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "43415482-2CCD-41F4-B2F8-DFB6938C080D - 23e096cd0ca50e29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.CharacterListViewModel.manageCharacterSearch(searchString: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Result&lt;(), Marvel.APIErrors&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "388">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "680954C2-0228-414E-BF8A-B5EE07A65BEE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvel/Screens/CharacterDetails/View/CharacterDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "fetchComicsDetails()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6767F17C-6846-4E5D-8DFE-DA6453AF7FBE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchCharacterList(isRefresh:searchString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6767F17C-6846-4E5D-8DFE-DA6453AF7FBE - def192b51fd6f384"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.CharacterListViewModel.fetchCharacterList(isRefresh: Swift.Bool, searchString: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Result&lt;(), Marvel.APIErrors&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "6767F17C-6846-4E5D-8DFE-DA6453AF7FBE - def192b51fd6f229"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.CharacterListViewModel.fetchCharacterList(isRefresh: Swift.Bool, searchString: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Result&lt;(), Marvel.APIErrors&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "6767F17C-6846-4E5D-8DFE-DA6453AF7FBE - def192b51fd6f24e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.CharacterListViewModel.fetchCharacterList(isRefresh: Swift.Bool, searchString: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Result&lt;(), Marvel.APIErrors&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "624">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9646DE31-5995-41D3-8F42-054E491A4876"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchCharacterList(isRefresh:searchString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9646DE31-5995-41D3-8F42-054E491A4876 - def192b51fd6f346"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.CharacterListViewModel.fetchCharacterList(isRefresh: Swift.Bool, searchString: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Result&lt;(), Marvel.APIErrors&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "436">
+               </Location>
+               <Location
+                  uuid = "9646DE31-5995-41D3-8F42-054E491A4876 - 7cc757614c6dad88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;(), Marvel.APIErrors&gt;) -&gt; () in Marvel.CharacterListViewModel.fetchCharacterList(isRefresh: Swift.Bool, searchString: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Result&lt;(), Marvel.APIErrors&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "9646DE31-5995-41D3-8F42-054E491A4876 - def192b51fd6f367"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.CharacterListViewModel.fetchCharacterList(isRefresh: Swift.Bool, searchString: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Result&lt;(), Marvel.APIErrors&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "456">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4BEB6F42-2C71-4D89-8AE1-4CB0DB095DD0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "manageCharacterSearch(searchString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4BEB6F42-2C71-4D89-8AE1-4CB0DB095DD0 - 23e096cd0ca50c5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.CharacterListViewModel.manageCharacterSearch(searchString: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Result&lt;(), Marvel.APIErrors&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "2060">
+               </Location>
+               <Location
+                  uuid = "4BEB6F42-2C71-4D89-8AE1-4CB0DB095DD0 - 23e096cd0ca50c19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.CharacterListViewModel.manageCharacterSearch(searchString: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Result&lt;(), Marvel.APIErrors&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/ViewModel/CharacterListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "2120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA339F24-6290-4D42-90CD-71DF7A07F918"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvel/Screens/CharacterList/View/CharacterListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "fetchCharacterList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BA339F24-6290-4D42-90CD-71DF7A07F918 - 5ec678a688acfc3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;(), Marvel.APIErrors&gt;) -&gt; () in Marvel.CharacterListViewController.fetchCharacterList() -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/View/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "BA339F24-6290-4D42-90CD-71DF7A07F918 - 80f48bbfc27e560e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;(), Marvel.APIErrors&gt;) -&gt; () in Marvel.CharacterListViewController.fetchCharacterList() -&gt; ()"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siddharthchau/Documents/Marvel/Marvel/Screens/CharacterList/View/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BEA7F4A-2CCD-4BCE-82CA-9BE2DBC22BBC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvel/Screens/CharacterList/View/CharacterListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "fetchCharacterList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
