@@ -1,5 +1,5 @@
 ## About Project
-- This project uses Marvel APIs.
+- This project uses Marvel APIs (https://developer.marvel.com/).
 - Project contains two screens 1) Character list screen 2) Character details screen.
 - Character list screen lists the characters from webservice with character image, title and if available then description about that character.
 - On Character details screen, 5 comics releted to that character is displayed.
